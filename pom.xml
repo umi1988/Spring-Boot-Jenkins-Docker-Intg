@@ -9,10 +9,10 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.starttohkar</groupId>
-	<artifactId>Spring-Boot-Jenkins-Docker-Intg</artifactId>
+	<artifactId>spring-boot-jenkins-docker-intg</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Boot-Jenkins-Docker-Intg</name>
-	<description>Spring-Boot-Jenkins-Docker-Intg</description>
+	<name>spring-boot-jenkins-docker-intg</name>
+	<description>spring-boot-jenkins-docker-intg</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -49,7 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Spring-Boot-Jenkins-Docker-Intg</finalName>
+		<finalName>spring-boot-jenkins-docker-intg</finalName>
 	</build>
 
 </project>
